@@ -963,6 +963,7 @@
 																</div>
 																<div class="desc">
 																	<p>
+																		<strong><?= APP_NAME ?></strong> <br>
 																		CONCORDE, Office Nr 901-903, 9th Floor, Plot Nr 66A , <br>
 																		Sector 11, CBD Belapur , Navi Mumbai 400614.
 																	</p>

@@ -902,7 +902,7 @@
 				</div>
 			</div>
 		</section>
-		<section class="video_overlay">
+		<section id="contact-us" class="video_overlay">
 			<div class="videowrapper">
 				<video id="myVideomob" class="res-video" muted loop autoplay poster="<?= base_url('assets/media/images/') ?>posters/video-poster-img.jpg">
 					<source src="<?= base_url('assets/media/images/') ?>video/My-Video2.mp4" type="video/mp4">
